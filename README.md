@@ -1,4 +1,4 @@
-Seletores de Elementos HTML:
+##Seletores de Elementos HTML:
 
 O código começa selecionando os elementos HTML que serão utilizados:
 num: O campo de entrada onde o usuário digita um número.
